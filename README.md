@@ -17,7 +17,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 17 years old, currently living in Brazil. I have intermediate English and experience with SQL, Python, C, C#, C++, as well as the Kivy, Pandas, and Tkinter libraries.
+  - 💬 I am 18 years old, currently living in Brazil. I have intermediate English and experience with SQL, Python, C, C#, C++, as well as the Kivy, Pandas, and Tkinter libraries.
 
   - ⚡ I enjoy reading, whether it's a good book, manga, or books about systems analysis. I believe that our personal interests contribute to a more refined perception of things and to problem-solving. </details>
 
